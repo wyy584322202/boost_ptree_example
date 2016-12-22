@@ -1,0 +1,13 @@
+
+{
+    ["__version"] = "XMake v2.0.6"
+,   ["cmdlines"] = 
+    {
+        "xmake create -l c++"
+    ,   "xmake"
+    ,   "xmake"
+    ,   "xmake"
+    ,   "xmake"
+    }
+
+}
